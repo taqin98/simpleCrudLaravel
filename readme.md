@@ -3,12 +3,11 @@
 Ikuti step dibawah ini :
 
 ```
-1. clone this project : git clone
+1. clone this project : git clone https://github.com/taqin98/simpleCrudLaravel.git
 
-2. php artisan migrate
+2. buat database siswa
 
-3. 
-5. firebase deploy
+3. php artisan migrate
 
 ```
 
