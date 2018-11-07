@@ -7,7 +7,9 @@ Ikuti step dibawah ini :
 
 2. buat database siswa
 
-3. php artisan migrate
+3. composer install
+
+4. php artisan migrate
 
 ```
 
