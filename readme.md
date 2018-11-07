@@ -1,3 +1,17 @@
+### Cara Instalasi
+
+Ikuti step dibawah ini :
+
+```
+1. clone this project : git clone
+
+2. php artisan migrate
+
+3. 
+5. firebase deploy
+
+```
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
